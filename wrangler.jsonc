@@ -1,0 +1,12 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "index-capture",
+  "main": "src/index.ts",
+  "compatibility_date": "2026-11-01",
+  "kv_namespaces": [
+    {
+      "binding": "DEDUPE",
+      "id": "ff4224b0d0a84165851b894d18c095e0"
+    }
+  ]
+}
